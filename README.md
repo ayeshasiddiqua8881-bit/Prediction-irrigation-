@@ -28,7 +28,7 @@ This project predicts irrigation requirements using machine learning techniques 
 Predicting-Irrigation/
 │
 ├── data/
-│   ├── raw/
+│   ├── raw/sample_submission (1).csv
 │   └── processed/empty 
 │
 ├── notebooks/
