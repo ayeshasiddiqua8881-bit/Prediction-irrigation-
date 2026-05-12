@@ -38,7 +38,7 @@ Predicting-Irrigation/
 │   └── model.py
 │
 ├── outputs/
-│   └── results.png
+│   └── Model Accuracy Scores.png // Distribution of Irrigation_Need Categories.png
 │
 ├── requirements.txt
 ├── README.md
